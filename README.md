@@ -1,7 +1,7 @@
 ### :woman_technologist: all bahan ©zall :
 
 
-*bahan up order kuota*
+### :woman_technologist: bahan up order quota:
 •https://bit.ly/BahanUpOrkuttFree
 
 *murlog/bahan logo*
