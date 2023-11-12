@@ -10,10 +10,10 @@
 
 •(2) https://drive.google.com/drive/folders/1Cmg6O7ZlPpD6we6ttTAPrk_7IVGCD-xf
 
-*kumpulan script bot wa*
+### :woman_technologist: kumpulan script bot what'sap:
 •https://bit.ly/Scriptbotwa
 
-*suntik sosmed*
+### :woman_technologist: suntik sosmed :
 •https://sprintpedia.id
 
 *sc hw v22+cpanel*
