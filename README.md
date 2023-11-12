@@ -42,18 +42,19 @@
       
       •https://Indiannumber.com
 
-*FREE DOMAINS.*
+### :woman_technologist: free domain :
      •http://www.dot.tk/en/index.html?lang=en
      •https://www.freenom.com/en/index.html?lang=en
 
-*FREE WEB HOSTING.*
+### :woman_technologist: free web hosting:
     •https://infinityfree.net/
     •https://www.freehosting.com/
 
-*FREE SSL.*
+### :woman_technologist: free ssl :
    •https://www.sslforfree.com/
    •https://zerossl.com/
    •https://letsencrypt.org/
 
-*AUTO like Facebook*
+
+### :woman_technologist: auto like fb termux :
       •https://github.com/RozhakXD/MachineLiker/tree/main#termux-command
