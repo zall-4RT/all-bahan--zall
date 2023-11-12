@@ -4,7 +4,8 @@
 ### :woman_technologist: bahan up order quota:
 •https://bit.ly/BahanUpOrkuttFree
 
-*murlog/bahan logo*
+
+### :woman_technologist: bahan logo :
 •(1) https://drive.google.com/drive/folders/11sGGt8hidQ2l4lpkK0dAbcSXruFmcvnv
 •(2) https://drive.google.com/drive/folders/1Cmg6O7ZlPpD6we6ttTAPrk_7IVGCD-xf
 
